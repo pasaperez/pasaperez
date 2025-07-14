@@ -19,7 +19,7 @@
   <a href="https://www.pasaperez.tech/">🌐 Portfolio</a> | 
   <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a> | 
   <a href="https://github.com/pasaperez">GitHub</a> | 
-  <a href="https://github.com/pasaperez-slingr">SLINGR Projects</a>
+  <a href="https://github.com/pasaperez-work">SLINGR Projects</a>
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ## 🚀 GitHub Projects
 
-### 🛠️ Projects in <a href="https://github.com/pasaperez-slingr"><code>pasaperez-slingr</code></a>
+### 🛠️ Projects in <a href="https://github.com/pasaperez-work"><code>pasaperez-work</code></a>
 <ul>
   <li><b>SLINGR Helper Libraries:</b> CLI tools for REST endpoint helpers (<code>slingr-helpgen</code>, <code>slingr-endpoints</code>, <code>@slingr/slingr-services</code>)</li>
   <li><b>Scanning Package:</b> QR/barcode scanning via webcam/camera</li>
@@ -49,19 +49,19 @@
   <th>Technology & Focus</th>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/API-REST-Test"><b>API-REST-Test</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/API-REST-Test"><b>API-REST-Test</b></a></td>
   <td>TypeScript + Express. Cookie handling, redirects, HTTP client patterns for SLINGR apps.</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/test-service"><b>test-service</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/test-service"><b>test-service</b></a></td>
   <td>Java template service, advanced HTTP for SLINGR low-code platform (Apache 2.0).</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/converter-service"><b>converter-service</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/converter-service"><b>converter-service</b></a></td>
   <td>Basic microservice for data conversion (PDF/CSV).</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/test-package"><b>test-package</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/test-package"><b>test-package</b></a></td>
   <td>JavaScript demo package (step flows, listeners, UI services). Based on SLINGR's <b>skeleton-package</b>.</td>
 </tr>
 </table>
@@ -138,7 +138,7 @@
 - 🌐 <a href="https://www.pasaperez.tech/">Portfolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a>
 - 💻 <a href="https://github.com/pasaperez">Main GitHub</a>
-- 🛠️ <a href="https://github.com/pasaperez-slingr">SLINGR Projects</a>
+- 🛠️ <a href="https://github.com/pasaperez-work">SLINGR Projects</a>
 
 ---
 
@@ -161,7 +161,7 @@
   <a href="https://www.pasaperez.tech/">🌐 Portafolio</a> | 
   <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a> | 
   <a href="https://github.com/pasaperez">GitHub</a> | 
-  <a href="https://github.com/pasaperez-slingr">Proyectos SLINGR</a>
+  <a href="https://github.com/pasaperez-work">Proyectos SLINGR</a>
 </p>
 
 ---
@@ -178,7 +178,7 @@
 
 ## 🚀 Proyectos en GitHub
 
-### 🛠️ Proyectos en <a href="https://github.com/pasaperez-slingr"><code>pasaperez-slingr</code></a>
+### 🛠️ Proyectos en <a href="https://github.com/pasaperez-work"><code>pasaperez-work</code></a>
 <ul>
   <li><b>Bibliotecas de ayuda SLINGR:</b> Herramientas CLI para endpoints REST (<code>slingr-helpgen</code>, <code>slingr-endpoints</code>, <code>@slingr/slingr-services</code>)</li>
   <li><b>Paquete de escaneo:</b> Escaneo QR/barras con webcam/cámara</li>
@@ -191,19 +191,19 @@
   <th>Tecnología y enfoque</th>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/API-REST-Test"><b>API-REST-Test</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/API-REST-Test"><b>API-REST-Test</b></a></td>
   <td>TypeScript + Express. Manejo de cookies, redirecciones, patrones HTTP para Slingr.</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/test-service"><b>test-service</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/test-service"><b>test-service</b></a></td>
   <td>Plantilla Java, capacidades avanzadas HTTP para Slingr (Apache 2.0).</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/converter-service"><b>converter-service</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/converter-service"><b>converter-service</b></a></td>
   <td>Microservicio base para conversión de datos (PDF/CSV).</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/pasaperez-slingr/test-package"><b>test-package</b></a></td>
+  <td><a href="https://github.com/pasaperez-work/test-package"><b>test-package</b></a></td>
   <td>Paquete demo JavaScript (flujos, listeners, UI). Basado en <b>skeleton-package</b> de Slingr.</td>
 </tr>
 </table>
@@ -280,7 +280,7 @@
 - 🌐 <a href="https://www.pasaperez.tech/">Portafolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a>
 - 💻 <a href="https://github.com/pasaperez">GitHub principal</a>
-- 🛠️ <a href="https://github.com/pasaperez-slingr">Proyectos SLINGR</a>
+- 🛠️ <a href="https://github.com/pasaperez-work">Proyectos SLINGR</a>
 
 ---
 
