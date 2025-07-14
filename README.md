@@ -55,8 +55,8 @@
 
 | Repository             | Stack                             | Purpose                                                           |
 |------------------------|-----------------------------------|-------------------------------------------------------------------|
-| **challenge-monnet**   | Angular 17 + Spring Boot 3        | HR compensation prototype, reactive forms, REST endpoints.         |
-| **challenge-hikru**    | Angular workspace + Node API      | Recruitment CRUD, material design components.                      |
+| **challenge-monnet**   | Angular 17 + Spring Boot 3        | HR compensation prototype, reactive forms, REST endpoints.         ([repo](https://bitbucket.org/proyecto-10/challenge-monnet)) |
+| **challenge-hikru**    | Angular workspace + Node API      | Recruitment CRUD, material design components.                      ([repo](https://bitbucket.org/proyecto-10/challenge-hikru)) |
 
 ---
 
@@ -143,8 +143,8 @@ Thanks for visiting my profile! 🎯
 
 | Repositorio             | Stack                             | Objetivo                                       |
 |------------------------|-----------------------------------|------------------------------------------------|
-| **challenge-monnet**   | Angular 17 + Spring Boot 3        | Prototipo de compensación RRHH, formularios, REST. |
-| **challenge-hikru**    | Angular workspace + Node API      | CRUD reclutamiento, componentes de diseño material. |
+| **challenge-monnet**   | Angular 17 + Spring Boot 3        | Prototipo de compensación RRHH, formularios, REST. ([repo](https://bitbucket.org/proyecto-10/challenge-monnet)) |
+| **challenge-hikru**    | Angular workspace + Node API      | CRUD reclutamiento, componentes de diseño material. ([repo](https://bitbucket.org/proyecto-10/challenge-hikru)) |
 
 ---
 
