@@ -1,68 +1,131 @@
-# 👋 Hello, I'm **Angel "pasaperez"**
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-21-blue?logo=java" />
+  <img src="https://img.shields.io/badge/Node.js-18-green?logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-4.9-blue?logo=typescript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3.0-brightgreen?logo=springboot" />
+  <img src="https://img.shields.io/badge/Angular-17-red?logo=angular" />
+  <img src="https://img.shields.io/badge/Cloud-Native-blueviolet?logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Low--Code-SLINGR-yellow?logo=slack" />
+</p>
 
-> **Backend & Full-Stack Developer**  
-> +6 years of experience in Java, Node.js, Angular, and microservices  
-> Passionate about scalable systems and integrations.
+<h1 align="center">👋 Hello, I'm <b>Angel "pasaperez"</b></h1>
+<p align="center">
+  <b>Backend & Full-Stack Developer | Technical Leader | Cloud Native Enthusiast</b><br>
+  <i>+6 years of experience in Java, Node.js, Angular, microservices & integrations</i>
+</p>
+
+<p align="center">
+  <a href="https://www.pasaperez.tech/">🌐 Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a> | 
+  <a href="https://github.com/pasaperez">GitHub</a> | 
+  <a href="https://github.com/pasaperez-slingr">SLINGR Projects</a>
+</p>
 
 ---
 
 ## 📄 Summary
 
-- 🌐 [pasaperez.tech](https://www.pasaperez.tech/)
-- 🔗 [LinkedIn – pasaperez](https://www.linkedin.com/in/pasaperez/)
-
-**Experience**
-- **+6 years** in Java/Node.js backend, **+4 years** in Angular frontend.
-- Specialized in API design, microservices, and endpoints (Slack, Mailchimp, PDF via SLINGR, etc).
+- 6+ years in Java/Node.js backend, 4+ years in Angular frontend.
+- Specialized in API design, microservices, and integrations (Slack, Mailchimp, PDF via SLINGR, etc).
 - Fast low-code development with SLINGR.
-
-**Current Position**
-- Backend Technical Expert at **Slingr** (remote, US).
-- Focus: **API design, microservices, CI/CD, cloud-native deployments**.
+- Backend Technical Expert at <b>Slingr</b> (remote, US). Focus: API design, microservices, CI/CD, cloud-native deployments.
 - Technical leader guiding distributed teams and modernizing legacy stacks.
 
 ---
 
 ## 🚀 GitHub Projects
 
-### 🛠️ Projects in [`pasaperez-slingr`](https://github.com/pasaperez-slingr)
+### 🛠️ Projects in <a href="https://github.com/pasaperez-slingr"><code>pasaperez-slingr</code></a>
+<ul>
+  <li><b>SLINGR Helper Libraries:</b> CLI tools for REST endpoint helpers (<code>slingr-helpgen</code>, <code>slingr-endpoints</code>, <code>@slingr/slingr-services</code>)</li>
+  <li><b>Scanning Package:</b> QR/barcode scanning via webcam/camera</li>
+  <li><b>PDF Generator:</b> HTML to PDF using wkhtmltopdf (merge, split, fill forms)</li>
+</ul>
 
-- **SLINGR Helper Libraries**: CLI tools for REST endpoint helpers (`slingr-helpgen`, `slingr-endpoints`, `@slingr/slingr-services`)
-- **Scanning Package**: QR/barcode scanning via webcam/camera
-- **PDF Generator**: HTML to PDF using wkhtmltopdf (merge, split, fill forms)
+<table>
+<tr>
+  <th>Project</th>
+  <th>Technology & Focus</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/API-REST-Test"><b>API-REST-Test</b></a></td>
+  <td>TypeScript + Express. Cookie handling, redirects, HTTP client patterns for SLINGR apps.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/test-service"><b>test-service</b></a></td>
+  <td>Java template service, advanced HTTP for SLINGR low-code platform (Apache 2.0).</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/converter-service"><b>converter-service</b></a></td>
+  <td>Basic microservice for data conversion (PDF/CSV).</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/test-package"><b>test-package</b></a></td>
+  <td>JavaScript demo package (step flows, listeners, UI services). Based on SLINGR's <b>skeleton-package</b>.</td>
+</tr>
+</table>
 
-| Project              | Technology & Focus                                                                                     |
-|----------------------|-------------------------------------------------------------------------------------------------------|
-| **API-REST-Test**    | TypeScript + Express. Cookie handling, redirects, HTTP client patterns for SLINGR apps.               |
-| **test-service**     | Java template service, advanced HTTP for SLINGR low-code platform (Apache 2.0).                       |
-| **converter-service**| Basic microservice for data conversion (PDF/CSV).                                                     |
-| **test-package**     | JavaScript demo package (step flows, listeners, UI services). Based on SLINGR's **skeleton-package**. |
+### 🛠️ Projects in <a href="https://github.com/pasaperez"><code>pasaperez</code></a>
 
-### 🛠️ Projects in [`pasaperez`](https://github.com/pasaperez)
-
-| Project                    | Technology & Focus                                                                             |
-|----------------------------|-----------------------------------------------------------------------------------------------|
-| **Backuper**               | Node CLI automating MongoDB backup/restore with a single command.                             |
-| **Mediline Backend Challenge** | Java 17 + Spring Boot API. Layered architecture, DTO mapping, exception handling.          |
-| **Fiera Link Tracker Challenge** | Java Spring Boot API. URL shortener, stats, invalidation, Spring Security.               |
-| **CloudNativeTP5**         | Node functions (OpenFaaS, K8s/OpenShift), MinIO, MongoDB Atlas, Algolia search.               |
-| **Portfolio Site**         | Angular 17 static site, GitHub Pages ([repo](https://github.com/pasaperez/pasaperez.github.io)) |
-| **sklearn coursework**     | Datasets & scripts for university ML assignment (R + Python).                                 |
+<table>
+<tr>
+  <th>Project</th>
+  <th>Technology & Focus</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/Backuper"><b>Backuper</b></a></td>
+  <td>Node CLI automating MongoDB backup/restore with a single command.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/Mediline-Backend-Challenge"><b>Mediline Backend Challenge</b></a></td>
+  <td>Java 17 + Spring Boot API. Layered architecture, DTO mapping, exception handling.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/Fiera-Link-Tracker-Challenge"><b>Fiera Link Tracker Challenge</b></a></td>
+  <td>Java Spring Boot API. URL shortener, stats, invalidation, Spring Security.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/CloudNativeTP5"><b>CloudNativeTP5</b></a></td>
+  <td>Node functions (OpenFaaS, K8s/OpenShift), MinIO, MongoDB Atlas, Algolia search.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/pasaperez.github.io"><b>Portfolio Site</b></a></td>
+  <td>Angular 17 static site, GitHub Pages.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/sklearn-coursework"><b>sklearn coursework</b></a></td>
+  <td>Datasets & scripts for university ML assignment (R + Python).</td>
+</tr>
+</table>
 
 ---
 
 ## 📦 Bitbucket Projects
 
-| Repository             | Stack                             | Purpose                                                           |
-|------------------------|-----------------------------------|-------------------------------------------------------------------|
-| **challenge-monnet**   | Angular 17 + Spring Boot 3        | HR compensation prototype, reactive forms, REST endpoints.         ([repo](https://bitbucket.org/proyecto-10/challenge-monnet)) |
-| **challenge-hikru**    | Angular workspace + Node API      | Recruitment CRUD, material design components.                      ([repo](https://bitbucket.org/proyecto-10/challenge-hikru)) |
+<table>
+<tr>
+  <th>Repository</th>
+  <th>Stack</th>
+  <th>Purpose</th>
+</tr>
+<tr>
+  <td><a href="https://bitbucket.org/proyecto-10/challenge-monnet"><b>challenge-monnet</b></a></td>
+  <td>Angular 17 + Spring Boot 3</td>
+  <td>HR compensation prototype, reactive forms, REST endpoints.</td>
+</tr>
+<tr>
+  <td><a href="https://bitbucket.org/proyecto-10/challenge-hikru"><b>challenge-hikru</b></a></td>
+  <td>Angular workspace + Node API</td>
+  <td>Recruitment CRUD, material design components.</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technologies
 
-- **Languages:** Java 21, TypeScript/Node 18, Python, R
+- <img src="https://img.shields.io/badge/Java-21-blue?logo=java" /> **Java 21**, **TypeScript/Node 18**, **Python**, **R**
 - **Frameworks:** Spring Boot, Express.js, Angular, Flutter
 - **Databases:** PostgreSQL, MySQL/MariaDB, MongoDB, DynamoDB
 - **Cloud & DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, GCP, AWS, OpenShift
@@ -72,85 +135,139 @@
 
 ## 📫 Connect with me
 
-- 🌐 [Portfolio](https://www.pasaperez.tech/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pasaperez/)
-- 💻 [Main GitHub](https://github.com/pasaperez/pasaperez)
-- 🛠️ [SLINGR Projects](https://github.com/pasaperez-slingr)
+- 🌐 <a href="https://www.pasaperez.tech/">Portfolio</a>
+- 🔗 <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a>
+- 💻 <a href="https://github.com/pasaperez">Main GitHub</a>
+- 🛠️ <a href="https://github.com/pasaperez-slingr">SLINGR Projects</a>
 
 ---
 
-Thanks for visiting my profile! 🎯  
-> _I'm always open to collaborations, technical talks, and new challenges._  
+<p align="center"><b>Thanks for visiting my profile! 🎯</b><br>
+<em>I'm always open to collaborations, technical talks, and new challenges.</em></p>
 
-— Angel Perez / Pasaperez
+<p align="center">— Angel Perez / Pasaperez</p>
 
 ---
 
-# 👋 Hola, soy **Angel "pasaperez"**
+<!-- ESPAÑOL -->
 
-> **Desarrollador Backend y Full-Stack**  
-> +6 años de experiencia en Java, Node.js, Angular y microservicios  
-> Apasionado por sistemas escalables e integraciones.
+<h1 align="center">👋 Hola, soy <b>Angel "pasaperez"</b></h1>
+<p align="center">
+  <b>Desarrollador Backend & Full-Stack | Líder Técnico | Apasionado por Cloud Native</b><br>
+  <i>+6 años de experiencia en Java, Node.js, Angular, microservicios e integraciones</i>
+</p>
+
+<p align="center">
+  <a href="https://www.pasaperez.tech/">🌐 Portafolio</a> | 
+  <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a> | 
+  <a href="https://github.com/pasaperez">GitHub</a> | 
+  <a href="https://github.com/pasaperez-slingr">Proyectos SLINGR</a>
+</p>
 
 ---
 
 ## 📄 Resumen
 
-- 🌐 [pasaperez.tech](https://www.pasaperez.tech/)
-- 🔗 [LinkedIn – pasaperez](https://www.linkedin.com/in/pasaperez/)
-
-**Experiencia**
-- **+6 años** en backend Java/Node.js, **+4 años** en frontend Angular.
+- +6 años en backend Java/Node.js, +4 años en frontend Angular.
 - Especializado en APIs, microservicios y endpoints (Slack, Mailchimp, PDF via SLINGR, etc).
 - Desarrollo rápido con bajo código en SLINGR.
-
-**Actualidad**
-- Backend Technical Expert en **Slingr** (remoto, EE.UU).
-- Especialización: **diseño de APIs, microservicios, CI/CD, cloud-native**.
+- Backend Technical Expert en <b>Slingr</b> (remoto, EE.UU). Enfoque en diseño de APIs, microservicios, CI/CD, cloud-native.
 - Líder técnico de equipos distribuidos y modernización de stacks legacy.
 
 ---
 
 ## 🚀 Proyectos en GitHub
 
-### 🛠️ Proyectos en [`pasaperez-slingr`](https://github.com/pasaperez-slingr)
+### 🛠️ Proyectos en <a href="https://github.com/pasaperez-slingr"><code>pasaperez-slingr</code></a>
+<ul>
+  <li><b>Bibliotecas de ayuda SLINGR:</b> Herramientas CLI para endpoints REST (<code>slingr-helpgen</code>, <code>slingr-endpoints</code>, <code>@slingr/slingr-services</code>)</li>
+  <li><b>Paquete de escaneo:</b> Escaneo QR/barras con webcam/cámara</li>
+  <li><b>Generador de PDF:</b> HTML a PDF con wkhtmltopdf (merge, split, llenar formularios)</li>
+</ul>
 
-- **Bibliotecas de ayuda SLINGR**: Herramientas CLI para endpoints REST (`slingr-helpgen`, `slingr-endpoints`, `@slingr/slingr-services`)
-- **Paquete de escaneo**: Escaneo QR/barras con webcam/cámara
-- **Generador de PDF**: HTML a PDF con wkhtmltopdf (merge, split, llenar formularios)
+<table>
+<tr>
+  <th>Proyecto</th>
+  <th>Tecnología y enfoque</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/API-REST-Test"><b>API-REST-Test</b></a></td>
+  <td>TypeScript + Express. Manejo de cookies, redirecciones, patrones HTTP para Slingr.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/test-service"><b>test-service</b></a></td>
+  <td>Plantilla Java, capacidades avanzadas HTTP para Slingr (Apache 2.0).</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/converter-service"><b>converter-service</b></a></td>
+  <td>Microservicio base para conversión de datos (PDF/CSV).</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez-slingr/test-package"><b>test-package</b></a></td>
+  <td>Paquete demo JavaScript (flujos, listeners, UI). Basado en <b>skeleton-package</b> de Slingr.</td>
+</tr>
+</table>
 
-| Proyecto             | Tecnología y enfoque                                                                                 |
-|----------------------|-----------------------------------------------------------------------------------------------------|
-| **API-REST-Test**    | TypeScript + Express. Manejo de cookies, redirecciones, patrones HTTP para Slingr.                  |
-| **test-service**     | Plantilla Java, capacidades avanzadas HTTP para Slingr (Apache 2.0).                                |
-| **converter-service**| Microservicio base para conversión de datos (PDF/CSV).                                              |
-| **test-package**     | Paquete demo JavaScript (flujos, listeners, UI). Basado en **skeleton-package** de Slingr.          |
+### 🛠️ Proyectos en <a href="https://github.com/pasaperez"><code>pasaperez</code></a>
 
-### 🛠️ Proyectos en [`pasaperez`](https://github.com/pasaperez)
-
-| Proyecto                         | Tecnología y enfoque                                                                      |
-|-----------------------------------|------------------------------------------------------------------------------------------|
-| **Backuper**                     | CLI Node para backup/restore MongoDB con un solo comando.                                |
-| **Mediline Backend Challenge**    | API REST Java 17 + Spring Boot. Arquitectura en capas, DTO, manejo de errores.           |
-| **Fiera Link Tracker Challenge**  | API Java Spring Boot. Acortador, estadísticas, endpoints seguros con Spring Security.     |
-| **CloudNativeTP5**                | Funciones Node (OpenFaaS, K8s/OpenShift), MinIO, MongoDB Atlas, búsqueda Algolia.        |
-| **Portfolio Site**                | Angular 17, sitio estático, GitHub Pages ([repo](https://github.com/pasaperez/pasaperez.github.io)) |
-| **sklearn coursework**            | Datasets y scripts para tarea universitaria ML (R + Python).                             |
+<table>
+<tr>
+  <th>Proyecto</th>
+  <th>Tecnología y enfoque</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/Backuper"><b>Backuper</b></a></td>
+  <td>CLI Node para backup/restore MongoDB con un solo comando.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/Mediline-Backend-Challenge"><b>Mediline Backend Challenge</b></a></td>
+  <td>API REST Java 17 + Spring Boot. Arquitectura en capas, DTO, manejo de errores.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/Fiera-Link-Tracker-Challenge"><b>Fiera Link Tracker Challenge</b></a></td>
+  <td>API Java Spring Boot. Acortador, estadísticas, endpoints seguros con Spring Security.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/CloudNativeTP5"><b>CloudNativeTP5</b></a></td>
+  <td>Funciones Node (OpenFaaS, K8s/OpenShift), MinIO, MongoDB Atlas, búsqueda Algolia.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/pasaperez.github.io"><b>Portfolio Site</b></a></td>
+  <td>Angular 17, sitio estático, GitHub Pages.</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/pasaperez/sklearn-coursework"><b>sklearn coursework</b></a></td>
+  <td>Datasets y scripts para tarea universitaria ML (R + Python).</td>
+</tr>
+</table>
 
 ---
 
 ## 📦 Proyectos en Bitbucket
 
-| Repositorio             | Stack                             | Objetivo                                       |
-|------------------------|-----------------------------------|------------------------------------------------|
-| **challenge-monnet**   | Angular 17 + Spring Boot 3        | Prototipo de compensación RRHH, formularios, REST. ([repo](https://bitbucket.org/proyecto-10/challenge-monnet)) |
-| **challenge-hikru**    | Angular workspace + Node API      | CRUD reclutamiento, componentes de diseño material. ([repo](https://bitbucket.org/proyecto-10/challenge-hikru)) |
+<table>
+<tr>
+  <th>Repositorio</th>
+  <th>Stack</th>
+  <th>Objetivo</th>
+</tr>
+<tr>
+  <td><a href="https://bitbucket.org/proyecto-10/challenge-monnet"><b>challenge-monnet</b></a></td>
+  <td>Angular 17 + Spring Boot 3</td>
+  <td>Prototipo de compensación RRHH, formularios reactivos, REST.</td>
+</tr>
+<tr>
+  <td><a href="https://bitbucket.org/proyecto-10/challenge-hikru"><b>challenge-hikru</b></a></td>
+  <td>Angular workspace + Node API</td>
+  <td>CRUD reclutamiento, componentes de diseño material.</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tecnologías
 
-- **Lenguajes:** Java 21, TypeScript/Node 18, Python, R
+- <img src="https://img.shields.io/badge/Java-21-blue?logo=java" /> **Java 21**, **TypeScript/Node 18**, **Python**, **R**
 - **Frameworks:** Spring Boot, Express.js, Angular, Flutter
 - **Bases de datos:** PostgreSQL, MySQL/MariaDB, MongoDB, DynamoDB
 - **Cloud y DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, GCP, AWS, OpenShift
@@ -160,14 +277,14 @@ Thanks for visiting my profile! 🎯
 
 ## 📫 Conecta conmigo
 
-- 🌐 [Portafolio](https://www.pasaperez.tech/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pasaperez/)
-- 💻 [GitHub principal](https://github.com/pasaperez/pasaperez)
-- 🛠️ [Proyectos SLINGR](https://github.com/pasaperez-slingr)
+- 🌐 <a href="https://www.pasaperez.tech/">Portafolio</a>
+- 🔗 <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a>
+- 💻 <a href="https://github.com/pasaperez">GitHub principal</a>
+- 🛠️ <a href="https://github.com/pasaperez-slingr">Proyectos SLINGR</a>
 
 ---
 
-¡Gracias por visitar mi perfil! 🎯  
-> _Siempre abierto a colaboraciones, charlas técnicas y nuevos desafíos._
+<p align="center"><b>¡Gracias por visitar mi perfil! 🎯</b><br>
+<em>Siempre abierto a colaboraciones, charlas técnicas y nuevos desafíos.</em></p>
 
-— Angel Perez / Pasaperez
+<p align="center">— Angel Perez / Pasaperez</p>
