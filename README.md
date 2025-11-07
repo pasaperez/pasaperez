@@ -27,7 +27,7 @@
 ## 📄 Summary
 
 - 6+ years in Java/Node.js backend, 4+ years in Angular frontend.
-- Specialized in API design, microservices, and integrations (Slack, Mailchimp, PDF via SLINGR, etc).
+- Specialized in API design, microservices, and integrations (Slack, Mailchimp, PDF via SLINGR, etc.).
 - Fast low-code development with SLINGR.
 - Backend Technical Expert at <b>Slingr</b> (remote, US). Focus: API design, microservices, CI/CD, cloud-native deployments.
 - Technical leader guiding distributed teams and modernizing legacy stacks.
@@ -169,7 +169,7 @@
 ## 📄 Resumen
 
 - +6 años en backend Java/Node.js, +4 años en frontend Angular.
-- Especializado en APIs, microservicios y endpoints (Slack, Mailchimp, PDF via SLINGR, etc).
+- Especializado en APIs, microservicios y endpoints (Slack, Mailchimp, PDF via SLINGR, etc.).
 - Desarrollo rápido con bajo código en SLINGR.
 - Backend Technical Expert en <b>Slingr</b> (remoto, EE.UU). Enfoque en diseño de APIs, microservicios, CI/CD, cloud-native.
 - Líder técnico de equipos distribuidos y modernización de stacks legacy.
