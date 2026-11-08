@@ -19,7 +19,7 @@
   <a href="https://pasaperez.github.io/">🌐 Portfolio</a> | 
   <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a> | 
   <a href="https://github.com/pasaperez">GitHub</a> | 
-  <a href="https://github.com/pasaperez-work">SLINGR Projects</a>
+  <a href="https://github.com/pasaperez-work">Work Projects</a>
 </p>
 
 ---
@@ -150,7 +150,7 @@
 - 🌐 <a href="https://pasaperez.github.io/">Portfolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a>
 - 💻 <a href="https://github.com/pasaperez">Main GitHub</a>
-- 🛠️ <a href="https://github.com/pasaperez-work">SLINGR Projects</a>
+- 🛠️ <a href="https://github.com/pasaperez-work">Work Projects</a>
 
 ---
 
@@ -173,7 +173,7 @@
   <a href="https://pasaperez.github.io/">🌐 Portafolio</a> | 
   <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a> | 
   <a href="https://github.com/pasaperez">GitHub</a> | 
-  <a href="https://github.com/pasaperez-work">Proyectos SLINGR</a>
+  <a href="https://github.com/pasaperez-work">Proyectos Laborales</a>
 </p>
 
 ---
@@ -304,7 +304,7 @@
 - 🌐 <a href="https://pasaperez.github.io/">Portafolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/pasaperez/">LinkedIn</a>
 - 💻 <a href="https://github.com/pasaperez">GitHub principal</a>
-- 🛠️ <a href="https://github.com/pasaperez-work">Proyectos SLINGR</a>
+- 🛠️ <a href="https://github.com/pasaperez-work">Proyectos Laborales</a>
 
 ---
 
